@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,7 @@
       <workItem from="1709214630951" duration="1001000" />
       <workItem from="1709279957290" duration="1456000" />
       <workItem from="1709281475264" duration="359000" />
+      <workItem from="1709288973772" duration="1670000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -135,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709280841721</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test 2">
+      <created>1709289029892</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709289029892</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test 2">
+      <created>1709290358768</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709290358768</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +163,7 @@
     <MESSAGE value="Mise à niveau" />
     <MESSAGE value="Mise à niveau à la base" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 2" />
   </component>
 </project>
