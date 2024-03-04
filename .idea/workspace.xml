@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CetaBot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelpOrt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDC.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PortFolio/PortFolio/AmauryLef.github.io/root/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PortFolio/PortFolio/AmauryLef.github.io&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -49,6 +54,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root\images" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root\dossier" />
@@ -79,7 +85,8 @@
       <workItem from="1709214630951" duration="1001000" />
       <workItem from="1709279957290" duration="1456000" />
       <workItem from="1709281475264" duration="359000" />
-      <workItem from="1709288973772" duration="1670000" />
+      <workItem from="1709288973772" duration="3072000" />
+      <workItem from="1709538109053" duration="1889000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -151,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709290358768</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="réduction taille">
+      <created>1709291207064</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709291207064</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +178,7 @@
     <MESSAGE value="Mise à niveau à la base" />
     <MESSAGE value="test" />
     <MESSAGE value="test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 2" />
+    <MESSAGE value="réduction taille" />
+    <option name="LAST_COMMIT_MESSAGE" value="réduction taille" />
   </component>
 </project>
