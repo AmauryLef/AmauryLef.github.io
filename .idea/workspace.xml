@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CetaBot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelpOrt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IDC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dossier/Tableau-de-synthèse-Epreuve-E4-BTS-SIO-2024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/HelpOrtJava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/HelpOrtWeb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/demandeJava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/statsHOJava.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelpOrt.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelpOrt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dossier/Amaury Lefevre - CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dossier/CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dossier/TableauSynthèse.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PortFolio/PortFolio/AmauryLef.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/PortFolio/PortFolio/AmauryLef.github.io/dossier",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\dossier" />
+      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\images" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root\images" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root" />
-      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root\dossier" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io" />
@@ -86,7 +91,8 @@
       <workItem from="1709279957290" duration="1456000" />
       <workItem from="1709281475264" duration="359000" />
       <workItem from="1709288973772" duration="3072000" />
-      <workItem from="1709538109053" duration="1889000" />
+      <workItem from="1709538109053" duration="2265000" />
+      <workItem from="1709543426718" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -165,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709291207064</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Remise à niveau des projets">
+      <created>1709542069437</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542069437</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +192,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="test 2" />
     <MESSAGE value="réduction taille" />
-    <option name="LAST_COMMIT_MESSAGE" value="réduction taille" />
+    <MESSAGE value="Remise à niveau des projets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remise à niveau des projets" />
   </component>
 </project>
