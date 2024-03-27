@@ -946,11 +946,13 @@ a:hover {
 }
 
 .work-img {
+  width: 100%;
+  height: auto;
   display: block;
   overflow: hidden;
 }
 
-.work-img img {
+.work-box img {
   transition: all 1s;
 }
 

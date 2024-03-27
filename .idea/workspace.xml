@@ -5,17 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dossier/Tableau-de-synthèse-Epreuve-E4-BTS-SIO-2024.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HelpOrtJava.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HelpOrtWeb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demandeJava.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/statsHOJava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hackathon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dossier/Amaury_Lefevre_CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dossier/Tableau_de_synthèse_Epreuve_E4_BTS_SIO_2024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1-removebg-preview (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/award.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bag-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bar-chart-line-fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/briefcase-fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/card-checklist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/caret-down-fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cvHome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/envelope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/geo-alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/journal-richtext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/moiHackathon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/people.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plus-circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/telephone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CetaBot.html" beforeDir="false" afterPath="$PROJECT_DIR$/CetaBot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelpOrt.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelpOrt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dossier/Amaury Lefevre - CV.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dossier/CV.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dossier/TableauSynthèse.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDC.html" beforeDir="false" afterPath="$PROJECT_DIR$/IDC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dossier/AmauryLefevre-CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dossier/Tableau_Synthese.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/RealCVScreen.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +112,23 @@
       <workItem from="1709281475264" duration="359000" />
       <workItem from="1709288973772" duration="3072000" />
       <workItem from="1709538109053" duration="2265000" />
-      <workItem from="1709543426718" duration="1604000" />
+      <workItem from="1709543426718" duration="2915000" />
+      <workItem from="1709626571958" duration="926000" />
+      <workItem from="1709635745020" duration="2264000" />
+      <workItem from="1709650020569" duration="9000" />
+      <workItem from="1709889062394" duration="826000" />
+      <workItem from="1710143777386" duration="3550000" />
+      <workItem from="1710337993195" duration="1320000" />
+      <workItem from="1710362467760" duration="281000" />
+      <workItem from="1710409709720" duration="1618000" />
+      <workItem from="1710414436438" duration="6000" />
+      <workItem from="1710420430399" duration="14000" />
+      <workItem from="1710446905592" duration="3986000" />
+      <workItem from="1710489599784" duration="50000" />
+      <workItem from="1711375692293" duration="554000" />
+      <workItem from="1711451781774" duration="5000" />
+      <workItem from="1711544588260" duration="1642000" />
+      <workItem from="1711559337722" duration="2251000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -178,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709542069437</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Ajout Projet HelpOrt + TS">
+      <created>1709545165423</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709545165432</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +236,7 @@
     <MESSAGE value="test 2" />
     <MESSAGE value="réduction taille" />
     <MESSAGE value="Remise à niveau des projets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remise à niveau des projets" />
+    <MESSAGE value="Ajout Projet HelpOrt + TS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout Projet HelpOrt + TS" />
   </component>
 </project>
