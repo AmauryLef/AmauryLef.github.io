@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/MCDIDC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/harmonIAdiapo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/harmonia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/idcBotCode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/presentHarmonIAGeneral.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CetaBot.html" beforeDir="false" afterPath="$PROJECT_DIR$/CetaBot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hackathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hackathon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelpOrt.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelpOrt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDC.html" beforeDir="false" afterPath="$PROJECT_DIR$/IDC.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/PortFolio/PortFolio/AmauryLef.github.io/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PortFolio/PortFolio/AmauryLef.github.io/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\images" />
@@ -111,7 +103,8 @@
       <workItem from="1711451781774" duration="5000" />
       <workItem from="1711544588260" duration="1642000" />
       <workItem from="1711559337722" duration="4161000" />
-      <workItem from="1711614693809" duration="5634000" />
+      <workItem from="1711614693809" duration="5735000" />
+      <workItem from="1711624209829" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -211,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711563647582</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Mise à jour Projets">
+      <created>1711621590678</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711621590678</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +228,7 @@
     <MESSAGE value="Remise à niveau des projets" />
     <MESSAGE value="Ajout Projet HelpOrt + TS" />
     <MESSAGE value="Mise à jour" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour" />
+    <MESSAGE value="Mise à jour Projets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour Projets" />
   </component>
 </project>
