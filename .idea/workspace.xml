@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HelpOrtWeb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/demandesHPW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/loginHPW.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CetaBot.html" beforeDir="false" afterPath="$PROJECT_DIR$/CetaBot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hackathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hackathon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelpOrt.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelpOrtJava.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +54,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\images" />
-      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\dossier" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io" />
+      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\dossier" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root\images" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root" />
     </key>
@@ -104,7 +105,7 @@
       <workItem from="1711544588260" duration="1642000" />
       <workItem from="1711559337722" duration="4161000" />
       <workItem from="1711614693809" duration="5735000" />
-      <workItem from="1711624209829" duration="655000" />
+      <workItem from="1711624209829" duration="3275000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -211,7 +212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711621590678</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Mise à jour Projets 2.0">
+      <created>1711625158105</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711625158105</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Mise à jour Stages">
+      <created>1711626328466</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711626328466</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +244,8 @@
     <MESSAGE value="Ajout Projet HelpOrt + TS" />
     <MESSAGE value="Mise à jour" />
     <MESSAGE value="Mise à jour Projets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour Projets" />
+    <MESSAGE value="Mise à jour Projets 2.0" />
+    <MESSAGE value="Mise à jour Stages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour Stages" />
   </component>
 </project>
