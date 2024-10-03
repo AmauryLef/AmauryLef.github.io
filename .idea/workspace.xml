@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HelpOrtWeb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demandesHPW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/loginHPW.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelpOrt.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelpOrtJava.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +102,20 @@
       <workItem from="1711559337722" duration="4161000" />
       <workItem from="1711614693809" duration="5735000" />
       <workItem from="1711624209829" duration="3275000" />
+      <workItem from="1711627924862" duration="235000" />
+      <workItem from="1711652862155" duration="65000" />
+      <workItem from="1713198567422" duration="22000" />
+      <workItem from="1713198928069" duration="49000" />
+      <workItem from="1713199344386" duration="37000" />
+      <workItem from="1713199418372" duration="50000" />
+      <workItem from="1713199942070" duration="2814000" />
+      <workItem from="1720548526121" duration="474000" />
+      <workItem from="1721419046958" duration="18000" />
+      <workItem from="1721419527535" duration="7000" />
+      <workItem from="1721419660607" duration="14000" />
+      <workItem from="1721420328864" duration="1905000" />
+      <workItem from="1721493089923" duration="2096000" />
+      <workItem from="1721678871311" duration="2471000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -226,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711626328466</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Mise à jour HelpOrt">
+      <created>1711628138199</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711628138199</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +263,7 @@
     <MESSAGE value="Mise à jour Projets" />
     <MESSAGE value="Mise à jour Projets 2.0" />
     <MESSAGE value="Mise à jour Stages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour Stages" />
+    <MESSAGE value="Mise à jour HelpOrt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour HelpOrt" />
   </component>
 </project>

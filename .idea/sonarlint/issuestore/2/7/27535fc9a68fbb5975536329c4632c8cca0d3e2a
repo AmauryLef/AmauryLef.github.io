@@ -1,0 +1,8 @@
+
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ˆè²Ô
+gjavascript:S1848£"EEither remove this useless object instantiation of "Typed" or use it.(‡Î¼¶ýÿÿÿÿ
+djavascript:S1481¯"BRemove the declaration of the unused 'portfolioLightbox' variable.(æöŒŽüÿÿÿÿ
+ajavascript:S1854¯"?Remove this useless assignment to variable "portfolioLightbox".(æöŒŽüÿÿÿÿ
+hjavascript:S1848¶"FEither remove this useless object instantiation of "Swiper" or use it.(£¬…Íúÿÿÿÿ
+cjavascript:S1848È"FEither remove this useless object instantiation of "Swiper" or use it.(­Š˜ß
+mjavascript:S1848ã"KEither remove this useless object instantiation of "PureCounter" or use it.(íóù´ûÿÿÿÿ

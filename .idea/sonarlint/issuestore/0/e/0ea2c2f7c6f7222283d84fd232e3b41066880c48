@@ -1,0 +1,6 @@
+
+7	php:S1780)"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+;	php:S2003"&Replace "include" with "include_once".(¤ºşã
+E	php:S6600"0Remove the parentheses from this "include" call.(¤ºşã
+3php:S125"Remove this commented out code.(–±Ù
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¤ºşã
