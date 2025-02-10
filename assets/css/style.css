@@ -54,6 +54,7 @@ a:hover {
 .service-box,
 .paralax-mf {
   box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  border: black 1px solid;
 }
 
 .box-shadow-a,
@@ -938,7 +939,7 @@ a:hover {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #fff;
+  background-color: green;
 }
 
 .work-box:hover img {
@@ -950,6 +951,7 @@ a:hover {
   height: auto;
   display: block;
   overflow: hidden;
+  background: #0b5ed7;
 }
 
 .work-box img {
@@ -962,7 +964,7 @@ a:hover {
 
 .work-content .w-more {
   color: #4e4e4e;
-  font-size: 0.8rem;
+  font-size: 0.65rem;
 }
 
 .work-content .w-more .w-ctegory {
@@ -984,7 +986,8 @@ a:hover {
 }
 
 .w-title {
-  font-size: 1.2rem;
+  margin-top: -15px;
+  font-size: 1.05rem;
 }
 
 /*--------------------------------------------------------------
