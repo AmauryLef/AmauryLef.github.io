@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/php-email-form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AmauryLef.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AmauryLef.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2802da41293552caca23f36f7779165a8f681d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0ea2c2f7c6f7222283d84fd232e3b41066880c48" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0ea2c2f7c6f7222283d84fd232e3b41066880c48" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a089276572549feadb2cf0f549079264df9ef17" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a089276572549feadb2cf0f549079264df9ef17" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24390cf0228055312287835b2bdb510dfb45d449" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e2bff4afbeacf3fdb1e2efe21e4e54e20e0d76b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d400ae47096d55cddcd14083ade9ac2153613fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b536bbb1cf57a568045c437f326bfa8b5cec3c03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f142f70b3b50bb1f972f4c95f7572b357bc14d32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd6d3687080cf37c95111c3797c97a46c1214b37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/d/0d2802da41293552caca23f36f7779165a8f681d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/4/24390cf0228055312287835b2bdb510dfb45d449" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/e/6e2bff4afbeacf3fdb1e2efe21e4e54e20e0d76b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/d/7d400ae47096d55cddcd14083ade9ac2153613fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/5/b536bbb1cf57a568045c437f326bfa8b5cec3c03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/1/f142f70b3b50bb1f972f4c95f7572b357bc14d32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/d/fd6d3687080cf37c95111c3797c97a46c1214b37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +116,7 @@
       <workItem from="1721420328864" duration="1905000" />
       <workItem from="1721493089923" duration="2096000" />
       <workItem from="1721678871311" duration="2471000" />
-      <workItem from="1739283852198" duration="894000" />
+      <workItem from="1739283852198" duration="2194000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -267,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711628138199</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit projets">
+      <created>1739284842787</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739284842787</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +272,7 @@
     <MESSAGE value="Mise à jour Projets 2.0" />
     <MESSAGE value="Mise à jour Stages" />
     <MESSAGE value="Mise à jour HelpOrt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour HelpOrt" />
+    <MESSAGE value="commit projets" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit projets" />
   </component>
 </project>
