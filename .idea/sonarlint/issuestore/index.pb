@@ -1,13 +1,9 @@
 
 D
 assets/css/style.css,1\a\1a089276572549feadb2cf0f549079264df9ef17
-;
-stage2.html,f\d\fd6d3687080cf37c95111c3797c97a46c1214b37
 :
 
 index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
-;
-stage1.html,0\d\0d2802da41293552caca23f36f7779165a8f681d
 F
 assets/scss/Readme.txt,6\1\61a40981a9ce4e17650a9af97e98abf53e9d4295
 Z
@@ -150,13 +146,5 @@ A
 assets/js/main.js,2\7\27535fc9a68fbb5975536329c4632c8cca0d3e2a
 b
 2assets/vendor/bootstrap-icons/bootstrap-icons.json,6\c\6c3b520f5c9b66f9b12897631c75e534d85bc6e4
-8
-IDC.html,6\e\6e2bff4afbeacf3fdb1e2efe21e4e54e20e0d76b
-<
-CetaBot.html,7\d\7d400ae47096d55cddcd14083ade9ac2153613fe
->
-Hackathon.html,f\1\f142f70b3b50bb1f972f4c95f7572b357bc14d32
-@
-HelpOrtJava.html,b\5\b536bbb1cf57a568045c437f326bfa8b5cec3c03
-?
-HelpOrtWeb.html,2\4\24390cf0228055312287835b2bdb510dfb45d449
+_
+/assets/vendor/php-email-form/php-email-form.php,d\9\d9219fbcede32f476e142dec8255ddf55d9d761d

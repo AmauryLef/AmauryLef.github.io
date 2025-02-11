@@ -820,6 +820,10 @@ a:hover {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.soft-skills:hover {
+    color: #0d6efd;
+}
+
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -987,7 +991,7 @@ a:hover {
 
 .w-title {
   margin-top: -15px;
-  font-size: 1.05rem;
+  font-size: 1.03rem;
 }
 
 /*--------------------------------------------------------------
