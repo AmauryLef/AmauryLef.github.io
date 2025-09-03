@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Stages/stage-1A-Inge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-scl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets/CetaBot.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projets/CetaBot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets/Hackathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projets/Hackathon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets/HelpOrtJava.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projets/HelpOrtJava.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets/HelpOrtWeb.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projets/HelpOrtWeb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projets/IDC.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projets/IDC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stages/stage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Stages/stage-1A-BTS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stages/stage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Stages/stage-2A-BTS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,30 +42,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PortFolio/PortFolio/AmauryLef.github.io/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/PortFolio/PortFolio/AmauryLef.github.io/Stages",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\Stages" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\images" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\dossier" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root\images" />
-      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\root" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io\dossier" />
       <recent name="C:\PortFolio\PortFolio\AmauryLef.github.io" />
     </key>
   </component>
@@ -116,7 +127,8 @@
       <workItem from="1721420328864" duration="1905000" />
       <workItem from="1721493089923" duration="2096000" />
       <workItem from="1721678871311" duration="2471000" />
-      <workItem from="1739283852198" duration="2194000" />
+      <workItem from="1739283852198" duration="2346000" />
+      <workItem from="1756882991388" duration="1114000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -251,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739284842787</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update CV">
+      <created>1739286934322</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739286934322</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +292,7 @@
     <MESSAGE value="Mise à jour Stages" />
     <MESSAGE value="Mise à jour HelpOrt" />
     <MESSAGE value="commit projets" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit projets" />
+    <MESSAGE value="Update CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update CV" />
   </component>
 </project>
