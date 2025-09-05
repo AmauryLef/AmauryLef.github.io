@@ -148,8 +148,6 @@ b
 2assets/vendor/bootstrap-icons/bootstrap-icons.json,6\c\6c3b520f5c9b66f9b12897631c75e534d85bc6e4
 _
 /assets/vendor/php-email-form/php-email-form.php,d\9\d9219fbcede32f476e142dec8255ddf55d9d761d
-B
-Stages/stage1.html,1\0\10e79d18251e3573a5cbb4b1259b7cf6b76a07e2
 H
 Stages/stage-1A-BTS.html,b\e\be03da5571540328790ad8a098bc1565e91548f4
 I
@@ -166,3 +164,7 @@ F
 Projets/Hackathon.html,5\0\50257ef42c8bb5d77d3b2346a52b1266fb0a9273
 D
 Projets/CetaBot.html,d\9\d966484d88874473a18929e236d856f42703c931
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0

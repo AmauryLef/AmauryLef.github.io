@@ -2,29 +2,29 @@
 IWeb:AvoidCommentedOutCodeCheck+"Remove this commented out code.(­ÿ¨Û
 PWeb:AvoidCommentedOutCodeCheckH"Remove this commented out code.(‹úÍ½8Â‚°ŸÏ2
 PWeb:AvoidCommentedOutCodeCheckK"Remove this commented out code.(»¦ÎÈ8Â‚°ŸÏ2
-TWeb:ImgWithoutAltCheck¸"%Add an "alt" attribute to this image.(Œîá˜ÿÿÿÿÿ8Ä‚°ŸÏ2
-TWeb:ImgWithoutAltCheckÇ"%Add an "alt" attribute to this image.(¥„–üÿÿÿÿ8Ä‚°ŸÏ2
-TWeb:ImgWithoutAltCheckÖ"%Add an "alt" attribute to this image.(Å×÷µüÿÿÿÿ8Ä‚°ŸÏ2
-OWeb:ImgWithoutAltCheckî"%Add an "alt" attribute to this image.(Ú¨¸“8Ä‚°ŸÏ2
-OWeb:ImgWithoutAltCheckù"%Add an "alt" attribute to this image.(Á°¼8Ä‚°ŸÏ2
-TWeb:ImgWithoutAltCheck„"%Add an "alt" attribute to this image.(½©òüøÿÿÿÿ8Ä‚°ŸÏ2
-OWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(ñ²Ÿâ8Ä‚°ŸÏ2
-YWeb:LinkToImageCheck¯"1Change this link to not directly target an image.(¨ÛÍ’8öÄÃ«Ï2
-TWeb:ImgWithoutAltCheck¾"%Add an "alt" attribute to this image.(º÷Ÿîÿÿÿÿÿ8Ä‚°ŸÏ2
-TWeb:ImgWithoutAltCheck×"%Add an "alt" attribute to this image.(ıïÆûÿÿÿÿ8Ä‚°ŸÏ2
-OWeb:ImgWithoutAltCheckğ"%Add an "alt" attribute to this image.(äìœó8È‚°ŸÏ2
-TWeb:ImgWithoutAltCheck‰"%Add an "alt" attribute to this image.(Üº¤¦şÿÿÿÿ8È‚°ŸÏ2
-TWeb:ImgWithoutAltCheck¢"%Add an "alt" attribute to this image.(Ë‘©¯şÿÿÿÿ8öÄÃ«Ï2
-TWeb:ImgWithoutAltCheck»"%Add an "alt" attribute to this image.(ñ’á¹øÿÿÿÿ8¿©Æ«Ï2
-YWeb:LinkToImageCheckÅ"1Change this link to not directly target an image.(çĞ“8Ä‚°ŸÏ2
-OWeb:ImgWithoutAltCheckÔ"%Add an "alt" attribute to this image.(‹¡š8œ£Ç«Ï2
-^Web:LinkToImageCheckŞ"1Change this link to not directly target an image.(«…ÑÆùÿÿÿÿ8Ä‚°ŸÏ2
-TWeb:ImgWithoutAltCheckí"%Add an "alt" attribute to this image.(®Òº˜ûÿÿÿÿ8™õÉ«Ï2
-^Web:LinkToImageCheck÷"1Change this link to not directly target an image.(«…ÑÆùÿÿÿÿ8™õÉ«Ï2
-TWeb:ImgWithoutAltCheck†"%Add an "alt" attribute to this image.(®Òº˜ûÿÿÿÿ8ÏíÈó3
-OWeb:ImgWithoutAltCheckœ"%Add an "alt" attribute to this image.(¡ßé8—ô¾‡è1
-TWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(åÛ˜ãşÿÿÿÿ8­Õ¿‡è1
-TWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(·Ó¹Áøÿÿÿÿ8¥ªÊ‡è1
-TWeb:ImgWithoutAltCheck£"%Add an "alt" attribute to this image.(¾œ”üÿÿÿÿ8¥ªÊ‡è1
-TWeb:ImgWithoutAltCheck¤"%Add an "alt" attribute to this image.(¹“˜ûÿÿÿÿ8¥ªÊ‡è1
-TWeb:ImgWithoutAltCheckÊ"%Add an "alt" attribute to this image.(å˜ÊØüÿÿÿÿ8¥ªÊ‡è1
+TWeb:ImgWithoutAltCheckí"%Add an "alt" attribute to this image.(Œîá˜ÿÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheckü"%Add an "alt" attribute to this image.(¥„–üÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheck‹"%Add an "alt" attribute to this image.(Å×÷µüÿÿÿÿ8²Á‚ö3
+OWeb:ImgWithoutAltCheck£"%Add an "alt" attribute to this image.(Ú¨¸“8²Á‚ö3
+OWeb:ImgWithoutAltCheck®"%Add an "alt" attribute to this image.(Á°¼8²Á‚ö3
+TWeb:ImgWithoutAltCheck¹"%Add an "alt" attribute to this image.(½©òüøÿÿÿÿ8²Á‚ö3
+OWeb:ImgWithoutAltCheckÄ"%Add an "alt" attribute to this image.(ñ²Ÿâ8²Á‚ö3
+YWeb:LinkToImageCheckä"1Change this link to not directly target an image.(¨ÛÍ’8²Á‚ö3
+TWeb:ImgWithoutAltCheckó"%Add an "alt" attribute to this image.(º÷Ÿîÿÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheckŒ"%Add an "alt" attribute to this image.(ıïÆûÿÿÿÿ8²Á‚ö3
+OWeb:ImgWithoutAltCheck¥"%Add an "alt" attribute to this image.(äìœó8²Á‚ö3
+TWeb:ImgWithoutAltCheck¾"%Add an "alt" attribute to this image.(Üº¤¦şÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheck×"%Add an "alt" attribute to this image.(Ë‘©¯şÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheckğ"%Add an "alt" attribute to this image.(ñ’á¹øÿÿÿÿ8²Á‚ö3
+YWeb:LinkToImageCheckú"1Change this link to not directly target an image.(çĞ“8²Á‚ö3
+OWeb:ImgWithoutAltCheck‰"%Add an "alt" attribute to this image.(‹¡š8²Á‚ö3
+^Web:LinkToImageCheck“"1Change this link to not directly target an image.(«…ÑÆùÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheck¢"%Add an "alt" attribute to this image.(®Òº˜ûÿÿÿÿ8²Á‚ö3
+^Web:LinkToImageCheck¬"1Change this link to not directly target an image.(«…ÑÆùÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheck»"%Add an "alt" attribute to this image.(®Òº˜ûÿÿÿÿ8²Á‚ö3
+OWeb:ImgWithoutAltCheckÑ"%Add an "alt" attribute to this image.(¡ßé8²Á‚ö3
+TWeb:ImgWithoutAltCheckÒ"%Add an "alt" attribute to this image.(åÛ˜ãşÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheckÓ"%Add an "alt" attribute to this image.(·Ó¹Áøÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheckØ"%Add an "alt" attribute to this image.(¾œ”üÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheckÙ"%Add an "alt" attribute to this image.(¹“˜ûÿÿÿÿ8²Á‚ö3
+TWeb:ImgWithoutAltCheckÿ"%Add an "alt" attribute to this image.(å˜ÊØüÿÿÿÿ8²Á‚ö3
