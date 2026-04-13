@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dossier/CV_Alternance_Amaury_Lefevre_SEA.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AmauryLef.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AmauryLef.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/under-construction.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/under-construction.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dossier/CV_Amaury_LEFEVRE.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/PortFolio/PortFolio/AmauryLef.github.io/Stages",
+    "last_opened_file_path": "C:/PortFolio/AmauryLef.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -128,6 +125,7 @@
       <workItem from="1756882991388" duration="6405000" />
       <workItem from="1756912507461" duration="1291000" />
       <workItem from="1757078766317" duration="344000" />
+      <workItem from="1776081010891" duration="2074000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
