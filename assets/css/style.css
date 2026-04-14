@@ -48,6 +48,29 @@ a:hover {
   color: #4e4e4e;
 }
 
+#services .row:last-child {
+  display: flex;
+  align-items: stretch;
+}
+
+#services .col-md-4 {
+  display: flex;
+}
+
+#services .service-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+#services .service-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .box-shadow,
 .card-blog,
 .work-box,
