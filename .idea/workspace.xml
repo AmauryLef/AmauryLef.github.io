@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="">
+    <list default="true" id="82aa6f7b-4e64-487d-b776-a72f5c7d5d8c" name="Changes" comment="Remake Partie Services &amp; Bio">
+      <change afterPath="$PROJECT_DIR$/assets/js/under-construction.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -149,7 +152,8 @@
       <workItem from="1756882991388" duration="6405000" />
       <workItem from="1756912507461" duration="1291000" />
       <workItem from="1757078766317" duration="344000" />
-      <workItem from="1776192985461" duration="2562000" />
+      <workItem from="1776192985461" duration="3544000" />
+      <workItem from="1777409276669" duration="2807000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1694000932041</created>
@@ -298,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756884155848</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Remake Partie Services &amp; Bio">
+      <option name="closed" value="true" />
+      <created>1776197133189</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1776197133189</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +334,7 @@
     <MESSAGE value="commit projets" />
     <MESSAGE value="Update CV" />
     <MESSAGE value="Remake Partie Projets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remake Partie Projets" />
+    <MESSAGE value="Remake Partie Services &amp; Bio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remake Partie Services &amp; Bio" />
   </component>
 </project>

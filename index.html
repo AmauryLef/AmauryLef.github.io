@@ -53,7 +53,7 @@
             <ul>
               <li><a href="Stages/stage-1A-BTS.html">BTS 1A</a></li>
               <li><a href="Stages/stage-2A-BTS.html">BTS 2A</a></li>
-              <li><a href="under-construction.html">Ingé 1A</a></li>
+              <li><a href="under-construction.html?from=Stages">Ingé 1A</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -714,7 +714,7 @@
                   <div class="col-md-6">
                     <div class="title-box-2">
                       <h5 class="title-left">
-                        Send Message Us
+                        Envoyez un mail !!
                       </h5>
                     </div>
                     <div>
@@ -746,7 +746,7 @@
                             <div class="sent-message">Your message has been sent. Thank you!</div>
                           </div>
                           <div class="col-md-12 text-center">
-                            <button type="submit" class="button button-a button-big button-rouded">Send Message</button>
+                            <button type="submit" class="button button-a button-big button-rouded" onclick="document.getElementById('monPopup').style.display='flex'">Send Message</button>
                           </div>
                         </div>
                       </form>
@@ -761,12 +761,11 @@
                     <div class="more-info">
                       <p class="lead">
                         Il est tout de même assez simple de me contacter. Je suis présent sur quasiment les réseaux sociaux tels que LinkeDIn ou Github.
-
                       </p>
                       <ul class="list-ico">
-                        <li><span class="bi"><img src="images/geo-alt.png" style="height: 3vh;"></span> 43 Avenue du Général Louis Morand, Savigny Sur Orge, 91600</li>
+                        <li><span class="bi"><img src="images/geo-alt.png" style="height: 3vh;"></span>Savigny Sur Orge</li>
                         <li><span class="bi"><img src="images/telephone.png" style="height: 3vh;"></span> <a  href="tel:0630328111">06 30 32 81 11</a></li>
-                        <li><span class="bi"><img src="images/envelope.png" style="height: 3vh;"></span> <a href="mailto:amaury.lefevre@outlook.fr">amaury.lefevre@outlook.fr</a></li>
+                        <li><span class="bi"><img src="images/envelope.png" style="height: 3vh;"></span> <a href="mailto:alefevre@et.esiea.fr">alefevre@et.esiea.fr</a></li>
                       </ul>
                     </div>
                     <div class="socials">
@@ -784,8 +783,23 @@
       </div>
     </section><!-- End Contact Section -->
 
-
+    <div id="monPopup" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.6); z-index:999; align-items:center; justify-content:center;">
+      <div style="background:#1a1a1a; padding:2rem; border-radius:10px; max-width:400px; text-align:center;">
+        <p>Implémentation prévue pour la rentrée 2026.</p>
+        <button onclick="document.getElementById('monPopup').style.display='none'">Fermer</button>
+      </div>
+    </div>
   </main><!-- End #main -->
+
+  <script>
+    function openPopup()  { document.getElementById('monPopup').style.display = 'flex'; }
+    function closePopup() { document.getElementById('monPopup').style.display = 'none'; }
+
+    // Fermer en cliquant sur le fond
+    document.getElementById('monPopup').addEventListener('click', function(e) {
+      if (e.target === this) closePopup();
+    });
+  </script>
 
   <!-- ======= Footer ======= -->
   <footer>
