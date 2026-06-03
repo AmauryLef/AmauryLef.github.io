@@ -10,7 +10,7 @@ const context = params.get('from'); // 'Projets' | 'Stages' | null
 ══════════════════════════════════════════ */
 const CONFIG = {
     Projets: {
-        openDate:  new Date('2026-06-01T12:00:00'),
+        openDate:  new Date('2026-08-01T12:00:00'),
         startDate: new Date('2025-04-12T00:00:00'),
         primary:   [20, 157, 221],
         secondary: [10, 111, 163],
